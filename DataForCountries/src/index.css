@@ -1,0 +1,26 @@
+.countryName {
+  color: rebeccapurple;
+  font-size: 60px;
+  font-weight: bold;
+}
+.countryCapital {
+  color: rebeccapurple;
+  font-size: 30px;
+  font-style: italic;
+}
+.coatOfArms {
+  max-width: 200px;
+  max-height: 200px;
+}
+.flag {
+  max-width: 300px;
+  max-height: 300px;
+}
+.temperature {
+  font-size: 30px;
+
+  color: rebeccapurple;
+}
+.weatherIcon {
+  height: 100px;
+}
